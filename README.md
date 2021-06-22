@@ -1,2 +1,1 @@
-# bill_divider
-Bill divider
+# Bill divider
